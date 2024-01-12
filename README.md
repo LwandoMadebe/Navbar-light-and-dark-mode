@@ -17,5 +17,6 @@ Busy improving my skills in learning react, This small project is based on a the
 
 ### Video
 Please also note that when you refresh the page, it stick to the theme you prefer, check the video below
+https://github.com/LwandoMadebe/Navbar-light-and-dark-mode/assets/147529941/0dd205bd-f551-4bf7-8882-95a246b7d3bd
 
 
