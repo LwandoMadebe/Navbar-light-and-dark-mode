@@ -10,10 +10,10 @@ Busy improving my skills in learning react, This small project is based on a the
 <img src="https://github.com/LwandoMadebe/To-do-list/assets/147529941/fef3f566-3631-4f23-9637-d0c4649f7938" width='80'>
 
 ### Light Mode Screenshot
-<img src="https://github.com/LwandoMadebe/Navbar-light-and-dark-mode/assets/147529941/e1e55e35-03e5-4db1-8f76-d25293d67eb9" width='600'>
+<img src="https://github.com/LwandoMadebe/Navbar-light-and-dark-mode/assets/147529941/e1e55e35-03e5-4db1-8f76-d25293d67eb9" width='700'>
 
 ### Dark Mode Screenshot
-<img src="https://github.com/LwandoMadebe/Navbar-light-and-dark-mode/assets/147529941/4cccb8c3-924d-4d3b-a7e1-fab203cc679c" width='600'>
+<img src="https://github.com/LwandoMadebe/Navbar-light-and-dark-mode/assets/147529941/4cccb8c3-924d-4d3b-a7e1-fab203cc679c" width='700'>
 
 ### Video
 Please also note that when you refresh the page, it stick to the theme you prefer, check the video below
