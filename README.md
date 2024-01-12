@@ -1,8 +1,11 @@
-# React + Vite
+## React
+Busy improving my skills in learning react, This small project is based on a theme, changing to dark mode or light mode, as many users prefer dark mode, so I think it is vital to accomodate all types of users when creating an application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Langauges used 
 
-Currently, two official plugins are available:
+### Light Mode Screenshot
+### Dark Mode Screenshot
+### Video
+Please also note that when you refresh the page, it stick to the theme you prefer, check the video below
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
